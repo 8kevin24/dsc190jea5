@@ -1,11 +1,8 @@
-import os
-import numpy as np
+
 
 
 def foo(x, y):
-    z = x + y
-    return z
+    return x + y
 
 
-foo(1, 2, 3)
-print(undefined_variable)
+print(foo(1, 2))
