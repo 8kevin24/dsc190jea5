@@ -1,6 +1,8 @@
-def main():
-    print("Hello from dsc190jea5!")
 
 
-if __name__ == "__main__":
-    main()
+
+def foo(x, y):
+    return x + y
+
+
+print(foo(1, 2))
