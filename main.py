@@ -1,6 +1,11 @@
-def main():
-    print("Hello from dsc190jea5!")
+import os
+import numpy as np
 
 
-if __name__ == "__main__":
-    main()
+def foo(x, y):
+    z = x + y
+    return z
+
+
+foo(1, 2, 3)
+print(undefined_variable)
